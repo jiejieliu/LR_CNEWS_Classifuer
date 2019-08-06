@@ -1,0 +1,2 @@
+# LR_CNEWS_Classifuer
+使用逻辑回归对新闻数据集进行分类
